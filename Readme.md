@@ -26,7 +26,7 @@ K_Armed_Bandit_Problem/
 ├── graph.py                 # Plotting and performance visualization
 ├── settings.py              # Configuration (k arms, steps, epsilon, etc.)
 ├── LICENSE
-├── Readme.md                # This file
+├── README.md                # This file
 └── .gitignore
 ```
 
