@@ -51,6 +51,10 @@ The settings module contains a class called Settings to store all the values in 
 
 The multi_armed_bandit module contains the class MultiArmedBandit.
 
+The agent module contains the class Agent and two subclasses GreedyAgent and EpsilonGreedyAgent.
+
+The graph module separates the codes of graphing from the main program.
+
 ---
 
 ## 🛠️ Requirements
@@ -114,8 +118,3 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ---
 
 ⭐ If you find this useful, please consider adding a ⭐ to the repository!  
-
-
-The agent module contains the class Agent and two subclasses GreedyAgent and EpsilonGreedyAgent.
-
-The graph module separates the codes of graphing from the main program.
